@@ -1,0 +1,19 @@
+/* h2 + p {
+  color: rebeccapurple;
+} */
+/* Combinador hermano cercano */
+
+/* ahora combinador de hermano general */
+/* h2 ~ p {
+  color: red;
+} */
+
+/* Combinador de hijos */
+div > p {
+  color: red;
+}
+/* div es el padre mayor de una etiqueta parrafo */
+
+/* div p {
+  color: purple;
+} */
